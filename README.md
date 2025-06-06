@@ -3,7 +3,7 @@
 
 I'm 23 year old software development student specializing in building efficient, scalable, and user-focused tools. My work spans from web technologies, plugin ecosystems, game modifications, and automation! I take a full-cycle approach to developmen; from researching, designing, implementing, and polishing everything from backend logic to user-facing experiences!
 
-I enjoy working with modern JavaScript frameworks, backend logic in Java and Python, and open-source platforms like RuneLite and Spigot. I'm also interested in performance optimization, modular architecture, and intuitive UX! I'm exploring full-stack development (React, Node.js, MongoDB), Electron-based app deployment, and deeper plugin management. Lastly, I value clean code, creative problem solving, and well-documented systems. My goal is to build tools that improve workflows, improve player experiences, and support technical communities with both style and structure.
+I enjoy working with modern JavaScript frameworks, backend logic in Java and Python, and open-source platforms like RuneLite and Spigot. I'm also interested in performance optimization, modular architecture, and intuitive UX! I'm exploring full-stack development (React, Node.js, MongoDB), Electron-based app deployment, and deeper plugin management. Lastly, I value clean code, creative problem solving, and well-documented systems. My goal is to build tools that improve workflows, improve player experiences, and support technical communities!
 
 
 ## Languages & Tools
