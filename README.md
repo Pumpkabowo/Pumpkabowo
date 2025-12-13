@@ -13,7 +13,7 @@ I enjoy working with modern JavaScript frameworks, backend logic in Java and Pyt
 
 ## Current Projects & Focus Areas
 - **Minecraft Plugins**: Modular server enhancements built in Java with Spigot/Paper APIs  
-- **Discord Bots**: Using Python, API integration, and dynamic embedding—built with maintainability and modular design in mind  
+- **Discord Bots**: Using Python and JavaScript, API integration, and dynamic embedding—built with maintainability and modular design in mind  
 - **OSRS RuneLite Addons**: Plugins and UI/UX overhauls for Old School RuneScape, including theme packs, overlay tools, and gameplay-enhancing utilities  
 - **Web & Desktop Applications**: Modern frontend solutions using React, Electron, and Node.js, including productivity tools and gaming utilities
 
