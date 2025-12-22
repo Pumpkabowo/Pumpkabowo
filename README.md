@@ -1,5 +1,5 @@
 ## 🥀 Hi! I'm Bella!
-**`Content Creator | Software Developer | Game Designer`**
+**`Software Developer | Game Designer`**
 
 I'm a 24 year old software development student specializing in building efficient, scalable, and user-focused tools. My work spans from web technologies, plugin ecosystems, game modifications, and automation! I take a full-cycle approach to developmen; from researching, designing, implementing, and polishing everything from backend logic to user-facing experiences!
 
